@@ -1,0 +1,52 @@
+@media (max-width: 300px) {
+  #h3check {
+    display: flex;
+    flex-wrap: wrap;
+    color: brown;
+  }
+  #home1 {
+    text-align: center;
+    align-items: center;
+    color: brown;
+    font-size: 0.4cm;
+  }
+  header {
+    align-items: center;
+    text-align: center;
+    width: 1%;
+    height: 5%;
+  }
+}
+
+body {
+  background-color: aliceblue;
+}
+#h3check {
+  align-content: center;
+  padding: 0.5rem;
+  margin: 0.5rem;
+  border-radius: 0.01rem;
+  border: 0.1rem #404040 solid;
+  background-color: #75c0cd;
+  width: 10%;
+  display: inline-block;
+  font-size: 0.8rem;
+  font-family: fantasy;
+  text-align: center;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.inputone {
+  border-radius: 10px;
+}
+
+header {
+  align-items: center;
+  text-align: center;
+}
+
+#home1 {
+  text-align: center;
+  align-items: center;
+}
