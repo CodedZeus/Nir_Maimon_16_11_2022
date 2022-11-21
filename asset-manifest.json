@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Nir_Maimon_16_11_2022/static/css/main.6407b151.css",
-    "main.js": "/Nir_Maimon_16_11_2022/static/js/main.798f858b.js",
+    "main.js": "/Nir_Maimon_16_11_2022/static/js/main.9cc512d3.js",
     "static/js/787.d9312eb8.chunk.js": "/Nir_Maimon_16_11_2022/static/js/787.d9312eb8.chunk.js",
     "index.html": "/Nir_Maimon_16_11_2022/index.html",
     "main.6407b151.css.map": "/Nir_Maimon_16_11_2022/static/css/main.6407b151.css.map",
-    "main.798f858b.js.map": "/Nir_Maimon_16_11_2022/static/js/main.798f858b.js.map",
+    "main.9cc512d3.js.map": "/Nir_Maimon_16_11_2022/static/js/main.9cc512d3.js.map",
     "787.d9312eb8.chunk.js.map": "/Nir_Maimon_16_11_2022/static/js/787.d9312eb8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6407b151.css",
-    "static/js/main.798f858b.js"
+    "static/js/main.9cc512d3.js"
   ]
 }
