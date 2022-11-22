@@ -48,11 +48,12 @@ export default function Home(props) {
     setCurrrentLocation(current);
   }
 
+  const givenLocation = props.locations.length ? props.locations[0] : undefined;
   useEffect(() => {
-    if (props.locations[0]) {
+    if (givenLocation) {
       chooseLocation(props.locations[0].name, props.locations[0].Key);
     }
-  }, [props.locations[0]]);
+  }, [givenLocation]);
 
   function toggle() {
     const favorites = localStorageService.get("favorites") || [];
